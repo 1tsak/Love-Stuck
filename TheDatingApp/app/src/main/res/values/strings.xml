@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheDatingApp</string>
+    <string name="login_notice">After you click Continue, A text message will be sent to your number with the verification code. Message and data rates may apply. The verified phone number can be used to login.</string>
+</resources>
