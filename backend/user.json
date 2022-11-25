@@ -1,0 +1,18 @@
+{
+    "_id": "5a9b1b9e3c4d1d0014a5c8d8",
+    "name": "Aakash",
+    "age":"18",
+    "password":"123456",
+    "email":"someone@example.com",
+    "phone":"1234567890",
+    "address":"some address",
+    "city":"some city",
+    "state":"some state",
+    "country":"some country",
+    "interests":["some","interests"],
+    "pincode":"123456",
+    "createdAt": "2018-03-01T10:00:00.000Z",
+    "updatedAt": "2018-03-01T10:00:00.000Z",
+    "__v": 0
+
+}
